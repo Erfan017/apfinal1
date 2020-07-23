@@ -1,0 +1,34 @@
+C:\Users\Sayan\source\repos\abcd\abcd\bin\Debug\abcd.exe.config
+C:\Users\Sayan\source\repos\abcd\abcd\bin\Debug\abcd.exe
+C:\Users\Sayan\source\repos\abcd\abcd\bin\Debug\abcd.pdb
+C:\Users\Sayan\source\repos\abcd\abcd\obj\Debug\abcd.csprojAssemblyReference.cache
+C:\Users\Sayan\source\repos\abcd\abcd\obj\Debug\adminlogin.g.cs
+C:\Users\Sayan\source\repos\abcd\abcd\obj\Debug\MainWindow.g.cs
+C:\Users\Sayan\source\repos\abcd\abcd\obj\Debug\App.g.cs
+C:\Users\Sayan\source\repos\abcd\abcd\obj\Debug\abcd_MarkupCompile.cache
+C:\Users\Sayan\source\repos\abcd\abcd\obj\Debug\abcd_MarkupCompile.lref
+C:\Users\Sayan\source\repos\abcd\abcd\obj\Debug\adminlogin.baml
+C:\Users\Sayan\source\repos\abcd\abcd\obj\Debug\MainWindow.baml
+C:\Users\Sayan\source\repos\abcd\abcd\obj\Debug\abcd.g.resources
+C:\Users\Sayan\source\repos\abcd\abcd\obj\Debug\abcd.Properties.Resources.resources
+C:\Users\Sayan\source\repos\abcd\abcd\obj\Debug\abcd.csproj.GenerateResource.cache
+C:\Users\Sayan\source\repos\abcd\abcd\obj\Debug\abcd.exe
+C:\Users\Sayan\source\repos\abcd\abcd\obj\Debug\abcd.pdb
+C:\Users\Sayan\source\repos\abcd\abcd\obj\Debug\customer login.g.cs
+C:\Users\Sayan\source\repos\abcd\abcd\obj\Debug\customer login.baml
+C:\Users\Sayan\source\repos\abcd\abcd\obj\Debug\customer register.g.cs
+C:\Users\Sayan\source\repos\abcd\abcd\obj\Debug\customer register.baml
+C:\Users\Sayan\source\repos\abcd\abcd\obj\Debug\adminmenu.g.cs
+C:\Users\Sayan\source\repos\abcd\abcd\obj\Debug\adminmenu.baml
+C:\Users\Sayan\source\repos\abcd\abcd\obj\Debug\editadminprofile.g.cs
+C:\Users\Sayan\source\repos\abcd\abcd\obj\Debug\editadminprofile.baml
+C:\Users\Sayan\source\repos\abcd\abcd\obj\Debug\editrestaurantinfo.g.cs
+C:\Users\Sayan\source\repos\abcd\abcd\obj\Debug\editrestaurantinfo.baml
+C:\Users\Sayan\source\repos\abcd\abcd\obj\Debug\editmenu.g.cs
+C:\Users\Sayan\source\repos\abcd\abcd\obj\Debug\editmenu.baml
+C:\Users\Sayan\source\repos\abcd\abcd\obj\Debug\customermenu.g.cs
+C:\Users\Sayan\source\repos\abcd\abcd\obj\Debug\customermenu.baml
+C:\Users\Sayan\source\repos\abcd\abcd\obj\Debug\editcutomerprofile.g.cs
+C:\Users\Sayan\source\repos\abcd\abcd\obj\Debug\editcutomerprofile.baml
+C:\Users\Sayan\source\repos\abcd\abcd\obj\Debug\orderfood.g.cs
+C:\Users\Sayan\source\repos\abcd\abcd\obj\Debug\orderfood.baml
